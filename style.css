@@ -155,4 +155,16 @@ span.bold-text {
     font-weight: 800;
 }
 
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 52px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #1f2937;
+    color: #e5e7eb;
+  }
 
